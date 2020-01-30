@@ -1,6 +1,6 @@
 <p align=center>
 
-  <img width=300 src="https://i.imgur.com/KsPRbGP.png"/>
+  <img width=300 src="https://i.imgur.com/2UkqjjG.png"/>
 
   <br>
   <span><strong>Rams0n1t0</strong> is a piece of software designed to encrypt our files and protect them from prying eyes. </span><br />
