@@ -3,7 +3,7 @@
   <img width=300 src="https://i.imgur.com/2UkqjjG.png"/>
 
   <br>
-  <span><strong>Rams0n1t0</strong> is a piece of software designed to encrypt our files and protect them from prying eyes. </span><br />
+  <span><strong>Rams0n1t0</strong> is a piece of software designed to encrypt our files and protect them from prying eyes. Be careful, some files may be unrecoverable </span><br />
 <img src="https://img.shields.io/badge/NodeJS-10.13.0-green"> 
 <img src="https://img.shields.io/badge/License-MIT-blue">
 <a href="http://girlazo.com"><img src="https://img.shields.io/badge/Website-up-green"></a>
